@@ -1,2 +1,5 @@
 plugins: 
   - open-in-new-tab 
+  - privacy: 
+    links_attr_map:   
+      target: _blank 
