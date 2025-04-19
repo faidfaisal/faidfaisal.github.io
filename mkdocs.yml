@@ -1,5 +1,5 @@
 site_name: Xiang Liu personal website 
-docs_dir: main
+docs_dir: 
 nav: 
   - Home: index.md 
 plugins: 
