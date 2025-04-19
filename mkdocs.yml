@@ -1,5 +1,6 @@
+site_name: Xiang Liu personal website 
+docs_dir: main
+nav: 
+  - Home: index.md 
 plugins: 
-  - open-in-new-tab 
-  - privacy: 
-    links_attr_map:   
-      target: _blank 
+  - open-in-new-tab  
