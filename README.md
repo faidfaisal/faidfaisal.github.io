@@ -184,4 +184,10 @@ Our project uses the source code from the following repositories:
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 
-* [al-folio](https://github.com/alshedivat/al-folio)
+* [al-folio](https://github.com/alshedivat/al-folio) 
+
+
+Include publications and service or other md files:  
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
