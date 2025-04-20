@@ -8,7 +8,7 @@ Hi there! I'm an undergraduate student studying Computer Science and Mathematics
  
 Currently, I'm interested in Generative Models such as using LLMs to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for Robots. 
   
-I plan to pursue a Ph.D in Computer Science to continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving problems and achieving different tasks. More importantly, how to potentially incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
+I plan to pursue a Ph.D in Computer Science to continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
 
 ## Research Goals 
 
