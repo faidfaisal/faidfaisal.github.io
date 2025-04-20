@@ -8,7 +8,7 @@ Hi there! I'm an undergraduate student studying Computer Science and Mathematics
  
 Currently, I'm interested in Generative Models such as using LLMs to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for Robots. 
   
-I plan to pursue a Ph.D in Computer Science because I want to make AI algorithms to do tasks that couldn't be done before and can make positive impacts 
+I plan to pursue a Ph.D in Computer Science to continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving problems and achieving different tasks. More importantly, how to potentially incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
 
 ## Research Goals 
 
@@ -21,3 +21,5 @@ I plan to pursue a Ph.D in Computer Science because I want to make AI algorithms
 - **[Apr. 2025]** I was invited as a student presenter at the [2nd Annual SUNY AI Symposium](https://www.buffalo.edu/research/landing-pages/suny-ai-symposium.html) hosted in University of Buffalo! I presented by summer research poster and met many professors and PhD students. 
 - **[Aug. 2024]** Completed my first Summer Research Program [SOAR](https://www.stonybrook.edu/commcms/cie/suny-soar/index.php) at Stony Brook University funded by SUNY. My project utilized Neural Operators for weather forecasting in the United States. [Check out here!](https://github.com/xiang1103/Climate-Forecasting-with-Deep-Learning_SOAR-Research/blob/main/Xiang%20Liu%20SOAR%20Poster.pdf) 
 
+
+Last Updated: April 19, 2025. This site is new and still under construction. 
