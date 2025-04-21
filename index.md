@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm an undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AIRS Lab.   
+Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AIRS Lab.   
  
-Currently, I'm interested in Generative Models such as using LLMs to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for Robots. 
+Currently, I'm interested in Generative Models such as using LLMs to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always thinking about more projects to do and questions to answer. 
   
-I plan to pursue a Ph.D in Computer Science to continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
+I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
 
 ## Research Goals 
 
