@@ -6,14 +6,14 @@ layout: homepage
 
 Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AIRS Lab.   
  
-Currently, I'm interested in Generative Models such as using LLMs to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always thinking about more projects to do and questions to answer. 
+Currently, I'm interested in Generative Models such as using Large Language Models to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always thinking about more projects to do and questions to answer. 
   
-I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technology and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests.  
+I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests!  
 
 ## Research Goals 
 
 - **Embodied Intelligence:** How machines perceive/understand the world around it, and how it can make decisions in this situation? 
-- **Generative Intelligence:** How to utilize generative models to support decision-making and inference? 
+- **Generative Intelligence:** How to utilize generative models to support or generate  decision-making and inference? 
 
 ## News
 
@@ -22,4 +22,4 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 - **[Aug. 2024]** Completed my first Summer Research Program [SOAR](https://www.stonybrook.edu/commcms/cie/suny-soar/index.php) at Stony Brook University funded by SUNY. My project utilized Neural Operators for weather forecasting in the United States. [Check out here!](https://github.com/xiang1103/Climate-Forecasting-with-Deep-Learning_SOAR-Research/blob/main/Xiang%20Liu%20SOAR%20Poster.pdf) 
 
 
-Last Updated: April 19, 2025. This site is new and still under construction. 
+Last Updated: April 21, 2025. This site is new and still under construction. 
