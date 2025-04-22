@@ -8,12 +8,12 @@ Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mat
  
 Currently, I'm interested in Generative Models such as using Large Language Models to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always thinking about more projects to do and questions to answer. 
   
-I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives to creative positive impacts. These ambitions guide my research interests!  
+I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives as products/tools to creative positive impacts. These ambitions guide my research interests!  
 
 ## Research Goals 
 
 - **Embodied Intelligence:** How machines perceive/understand the world around it, and how it can make decisions in this situation? 
-- **Generative Intelligence:** How to utilize generative models to support or generate  decision-making and inference? 
+- **Generative Intelligence:** How to utilize generative models to support decision-making and inference? 
 
 ## News
 
