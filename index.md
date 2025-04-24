@@ -28,10 +28,12 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 ## Advices 
   
 I am very grateful for all the amazing advices I have read/watched/learned online. Many of them are from people I look up to and have shaped my philosophy, how I do research, and how I want to live my life. I hope they might help you as well. 
-- [You and Your Research -- Richard Hamming](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-- [The Last Lecture --Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo)
+- [You and Your Research --Richard Hamming](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+- [The Last Lecture --Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo) 
+- [Doing well in your courses --Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) 
+- [Lessons from Undergrad --Trenton Bricken](https://www.trentonbricken.com/Lessons-From-Undergrad/)
 - "Think as an amateur, execute as an expert" -- Book written by Takeo Kanade in Japanese. Translated to Chinese and Korean  
-- [Positive Psychology Course taught by Tal Ben-Shahar at Harvard 2008](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) 
+- [Positive Psychology Course taught by Tal Ben-Shahar at Harvard 2008](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs)  
 - [给中国学生的七封信 --李开复 (Seven Letters For Chinese Students --Kai-Fu Lee)](https://zhuanlan.zhihu.com/p/550591533)  
  
 
