@@ -32,7 +32,7 @@ I am very grateful for all the amazing advices I have read/watched/learned onlin
 - [The Last Lecture --Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo) 
 - [Doing well in your courses --Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) 
 - [Lessons from Undergrad --Trenton Bricken](https://www.trentonbricken.com/Lessons-From-Undergrad/)
-- "Think as an amateur, execute as an expert" -- Book written by Takeo Kanade in Japanese. Translated to Chinese and Korean  
+- "Think as an amateur, execute as an expert" -- Book written by [Takeo Kanade](https://www.ri.cmu.edu/ri-faculty/takeo-kanade/) in Japanese. Translated to Chinese and Korean  
 - [Positive Psychology Course taught by Tal Ben-Shahar at Harvard 2008](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs)  
 - [给中国学生的七封信 --李开复 (Seven Letters For Chinese Students --Kai-Fu Lee)](https://zhuanlan.zhihu.com/p/550591533)  
  
