@@ -13,7 +13,7 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 ## Research Goals 
 - **Embodied Intelligence:** How machines perceive/understand the world around it, and how it can make decisions in this situation? 
 - **Task and Motion Planning:** How can machines plan/reason to execute long horizon tasks? This is particularly for general robotics, but the problem of planning is what Machine Learning community also cares about
-- **Understanding physical world:** How can models learn the physical world around it, i.e. the physics and know what will happen to the real world after executing an action. Another important aspect for robotics, and also applicable in video/image generations.  
+- **Understanding Physical World:** How can models learn the physical world around it, i.e. the physics and know what will happen to the real world after executing an action. Another important aspect for robotics, and also applicable in video/image generations.  
 
 ## News
 
