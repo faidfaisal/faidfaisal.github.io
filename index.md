@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AIRS Lab.   
+Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AI Research for Science (AIRS) Lab.   
  
 Currently, I'm interested in Generative Models such as using Large Language Models to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always exploring different interests and finding questions to solve. 
   
-I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives as products/tools to creative positive impacts. These ambitions guide my research interests! (Also I'm partially influenced by my favorite TV show [Person of Interest](https://www.imdb.com/title/tt1839578/))
+I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives as products/tools to creative positive impacts. These ambitions guide my research interests! (Also because I'm partially influenced by my favorite TV show [Person of Interest](https://www.imdb.com/title/tt1839578/))
 
 ## Research Goals 
 - **Embodied Intelligence:** How machines perceive/understand the world around it, and how it can make decisions in this situation? 
-- **Generative Intelligence:** How to utilize generative models to support decision-making and inference? 
+- **Task and Motion Planning:** How can machines plan/reason to execute long horizon tasks? This is particularly for general robotics, but the problem of planning is what Machine Learning community also cares about
+- **Understanding physical world:** How can models learn the physical world around it, i.e. the physics and know what will happen to the real world after executing an action. Another important aspect for robotics, and also applicable in video/image generations.  
 
 ## News
 
@@ -35,6 +36,7 @@ I am very grateful for all the amazing advices I have read/watched/learned onlin
 - "Think as an amateur, execute as an expert" -- Book written by [Takeo Kanade](https://www.ri.cmu.edu/ri-faculty/takeo-kanade/) in Japanese. Translated to Chinese and Korean  
 - [Positive Psychology Course taught by Tal Ben-Shahar at Harvard 2008](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs)  
 - [给中国学生的七封信 --李开复 (Seven Letters For Chinese Students --Kai-Fu Lee)](https://zhuanlan.zhihu.com/p/550591533)  
+- [The days are long but the decades are short --Sam Altman](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
  
 
-Last Updated: April 23, 2025. This site is new and still under construction. 
+Last Updated: May 7, 2025. This site is new and still under construction. 
