@@ -16,7 +16,7 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 - **Understanding Physical World:** How can models learn the physical world around it, i.e. the physics and know what will happen to the real world after executing an action. Another important aspect for robotics, and also applicable in video/image generations.  
 
 ## News
-- **[May. 2025]** Completed my research class with Prof. Yi Liu and Prof. Mendez. Check out my [final project report](assets/files/CSE_487_Report__Improved_Molecule_Generation_Using_Large_Language_Models_In_Genetic_Algorithms%20(1).pdf) combining Genetic Algorithms with Large Language Models for accurate molecule generation for optimization tasks.  
+- **[May. 2025]** Completed my research class with Prof. Yi Liu and Prof. Mendez. Check out my [final project report](assets/files/CSE_487_Report__Improved_Molecule_Generation_Using_Large_Language_Models_In_Genetic_Algorithms%20(1).pdf) combining Genetic Algorithms with Large Language Models to for molecule optimization tasks.  
 - **[Apr. 2025]** I was accepted into the [URECA Summer Research Program](https://www.stonybrook.edu/commcms/ureca/summer/on-campusopportunities.php) at Stony Brook University for Summer of 2025. I will receive funding for my project on using Diffusion Models to assist plan execution of Robots in simulator environments and will be presenting this in the April 2026 Symposium! 
 - **[Apr. 2025]** I was invited as a student presenter at the [2nd Annual SUNY AI Symposium](https://www.buffalo.edu/research/landing-pages/suny-ai-symposium.html) hosted in University of Buffalo! I presented by summer research poster and met many professors and PhD students. 
 - **[Aug. 2024]** Completed my first Summer Research Program [SOAR](https://www.stonybrook.edu/commcms/cie/suny-soar/index.php) at Stony Brook University funded by SUNY. My project utilized Neural Operators for weather forecasting in the United States. [Check out here!](https://github.com/xiang1103/Climate-Forecasting-with-Deep-Learning_SOAR-Research/blob/main/Xiang%20Liu%20SOAR%20Poster.pdf) 
@@ -31,6 +31,7 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 I am very grateful for all the amazing advices I have read/watched/learned online. Many of them are from people I look up to and have shaped my philosophy, how I do research, and how I want to live my life. I hope they might help you as well. 
 - [You and Your Research --Richard Hamming](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 - [The Last Lecture --Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo) 
+- [Principles of Effective Research --Michael Nielson](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [Doing well in your courses --Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) 
 - [Lessons from Undergrad --Trenton Bricken](https://www.trentonbricken.com/Lessons-From-Undergrad/)
 - "Think as an amateur, execute as an expert" -- Book written by [Takeo Kanade](https://www.ri.cmu.edu/ri-faculty/takeo-kanade/) in Japanese. Translated to Chinese and Korean  
