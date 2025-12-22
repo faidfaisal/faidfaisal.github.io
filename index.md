@@ -15,6 +15,7 @@ I plan to pursue a Ph.D in Computer Science and continue AI research, because of
 - **Task and Motion Planning:** How can machines plan/reason to execute long horizon tasks? This is particularly for general robotics, but the problem of planning is what Machine Learning community also cares about
 
 ## News
+- **[Oct. 2025]** Accepted an offer from Capital One's Technology Internship Program (TIP) in summer 2026! Hope to meet more people there. 
 - **[May. 2025]** Completed my research class with Prof. Yi Liu and Prof. Mendez. Check out my [final project report](assets/files/CSE_487_Report__Improved_Molecule_Generation_Using_Large_Language_Models_In_Genetic_Algorithms%20(1).pdf) combining Genetic Algorithms with Large Language Models to for molecule optimization tasks.  
 - **[Apr. 2025]** I was accepted into the [URECA Summer Research Program](https://www.stonybrook.edu/commcms/ureca/summer/on-campusopportunities.php) at Stony Brook University for Summer of 2025. I will receive funding for my project on using Diffusion Models to assist plan execution of Robots in simulator environments and will be presenting this in the April 2026 Symposium! 
 - **[Apr. 2025]** I was invited as a student presenter at the [2nd Annual SUNY AI Symposium](https://www.buffalo.edu/research/landing-pages/suny-ai-symposium.html) hosted in University of Buffalo! I presented by summer research poster and met many professors and PhD students. 
