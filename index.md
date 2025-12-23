@@ -4,40 +4,76 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm a 2nd year undergraduate student studying Computer Science and Mathematics at Stony Brook University. I'm very fortunate to be advised by Professor [Jorge-Mendez Mendez](https://jorge-a-mendez.github.io/) in the Learning & Intelligence Lab, and Professor [Yi Liu](https://jacoblau0513.github.io/) in the AI Research for Science (AIRS) Lab.   
- 
-Currently, I'm working in Generative Models such as using Large Language Models to assist drug discovery and Diffusion Models at generating action parameters to successfully execute long-shot plans for robots. I'm always exploring different interests and finding problems to solve. 
+Hi there! I’m a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I’m very fortunate to be advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I am currently working on developing **machine learning and NLP algorithms** to assist with **student grading, automation, and instructional support systems**.
 
-I plan to pursue a Ph.D in Computer Science and continue AI research, because of my passion for technological innovations and interest in how the human mind works. This intersection leads me to expand AI models’ capabilities at solving complex problems across different domains and achieving different tasks close to humans do. More importantly, how to incorporate new technologies into people’s daily lives as products/tools to creative positive impacts. These ambitions guide my research interests! (Also because I'm partially influenced by my favorite TV show [Person of Interest](https://www.imdb.com/title/tt1839578/))
+My academic interests are centered on the **intersection of machine learning, computer architecture, and embedded systems**. I am particularly interested in building systems where learning algorithms are tightly integrated with hardware to improve performance, efficiency, and scalability.
 
-## Research Goals 
-- **Embodied Intelligence:** How machines perceive/understand/interact with the physical world? 
-- **Task and Motion Planning:** How can machines plan/reason to execute long horizon tasks? This is particularly for general robotics, but the problem of planning is what Machine Learning community also cares about
+I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence and machine learning**, motivated by a strong interest in understanding how intelligent algorithms can be designed, optimized, and deployed within real computing systems.
+
+## Research Interests
+
+- **Machine Learning × Hardware:** How can machine learning algorithms be co-designed with hardware to improve efficiency, scalability, and performance?
+- **Computer Architecture:** How do architectural choices in processors and memory systems impact the execution of modern ML workloads?
+- **Embedded Systems:** How can intelligent algorithms be deployed on resource-constrained embedded platforms for real-world applications?
+- **ML-Driven Systems:** How can learning-based approaches enhance automation, decision-making, and system-level optimization?
 
 ## News
-- **[Oct. 2025]** Accepted an offer from Capital One's Technology Internship Program (TIP) in summer 2026! Hope to meet more people there. 
-- **[May. 2025]** Completed my research class with Prof. Yi Liu and Prof. Mendez. Check out my [final project report](assets/files/CSE_487_Report__Improved_Molecule_Generation_Using_Large_Language_Models_In_Genetic_Algorithms%20(1).pdf) combining Genetic Algorithms with Large Language Models to for molecule optimization tasks.  
-- **[Apr. 2025]** I was accepted into the [URECA Summer Research Program](https://www.stonybrook.edu/commcms/ureca/summer/on-campusopportunities.php) at Stony Brook University for Summer of 2025. I will receive funding for my project on using Diffusion Models to assist plan execution of Robots in simulator environments and will be presenting this in the April 2026 Symposium! 
-- **[Apr. 2025]** I was invited as a student presenter at the [2nd Annual SUNY AI Symposium](https://www.buffalo.edu/research/landing-pages/suny-ai-symposium.html) hosted in University of Buffalo! I presented by summer research poster and met many professors and PhD students. 
-- **[Aug. 2024]** Completed my first Summer Research Program [SOAR](https://www.stonybrook.edu/commcms/cie/suny-soar/index.php) at Stony Brook University funded by SUNY. My project utilized Neural Operators for weather forecasting in the United States. [Check out here!](https://github.com/xiang1103/Climate-Forecasting-with-Deep-Learning_SOAR-Research/blob/main/Xiang%20Liu%20SOAR%20Poster.pdf) 
 
-## Miscellaneous  
+- **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
+- **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.  
+- **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model.  
+- **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.  
+- **[Aug. 2022]** Completed a System Operations internship at **iRobot**, leading robot design and reducing hardware–software interface failure rates by 20%.
 
-- Outside of research, I'm quite involved on campus as a [College of Engineering and Applied Sciences Peer Mentor](https://www.stonybrook.edu/commcms/ceas-undergrad/current_students/peer_mentoring_program/meet_mentors.php) where I mentor 3 first-year students each year to help them adjust to college life and "figure out what to do their college lives". 
-- I am also a Resident Assistant (RA but not that research RA) at [H Community](https://www.instagram.com/hcommunitysbu/) where 1,300+ first-year students live in. I host large events like Halloween Celebration called Werewolfie, Lunar New Year Celebration, Friendsgiving ... that gained over 600 attendees with over $2k budget went into planning. My goal is to make college dorms home to students, and it's a truly enjoyable and collaborative experience!  
-
-## Advices 
   
-I am very grateful for all the amazing advices I have read/watched/learned online. Many of them are from people I look up to and have shaped my philosophy, how I do research, and how I want to live my life. I hope they might help you as well. 
-- [You and Your Research --Richard Hamming](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-- [The Last Lecture --Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo) 
-- [Principles of Effective Research --Michael Nielson](https://michaelnielsen.org/blog/principles-of-effective-research/)
-- [Doing well in your courses --Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) 
-- [Lessons from Undergrad --Trenton Bricken](https://www.trentonbricken.com/Lessons-From-Undergrad/)
-- "Think as an amateur, execute as an expert" -- Book written by [Takeo Kanade](https://www.ri.cmu.edu/ri-faculty/takeo-kanade/) in Japanese. Translated to Chinese and Korean  
-- [Positive Psychology Course taught by Tal Ben-Shahar at Harvard 2008](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs)  
-- [给中国学生的七封信 --李开复 (Seven Letters For Chinese Students --Kai-Fu Lee)](https://zhuanlan.zhihu.com/p/550591533)  
-- [The days are long but the decades are short --Sam Altman](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
- 
+## Projects
+---
 
-Last Updated: May 27, 2025. This site is new and still under construction. 
+### Four-Stage Pipelined Multimedia Processor  
+**Aug 2024 – Dec 2024**  
+
+
+Designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach. Implemented a **128-bit multimedia ALU** with packed subword parallelism, a **32 × 128-bit register file** with three read ports and one write port, and a **hazard-free forwarding unit** enabling stall-free execution. Built a **cycle-accurate testbench**, instruction buffer, and a **custom assembler** for verification.
+
+---
+
+### Transformer-Based NLP Chatbot with Intent Recognition  
+**Jul 2024 – Aug 2024**  
+
+
+Trained a **transformer model with multi-headed attention**, achieving **80% accuracy** in intent classification. Designed a complete **data preprocessing pipeline** and built a **lightweight interactive frontend** for real-time conversational inference.
+
+---
+
+### CNN-Based Breast Cancer Histopathology Classification  
+**Jun 2024 – Jul 2024**  
+
+Developed a **custom CNN in PyTorch** for binary classification of breast cancer histopathology slides, achieving **95.9% training accuracy**. Built an **interactive Gradio interface** for real-time prediction and visualization.
+
+---
+
+## Beyond Academics
+
+Outside of coursework and research, I enjoy spending time on things that help me stay balanced and energized. I like going to the gym and playing basketball, which keep me active and focused. I also enjoy playing chess, as it challenges the way I think and approach problems. In my free time, I like watching anime and traveling whenever I get the opportunity. Exploring new places and experiencing different cultures gives me fresh perspectives and keeps me inspired.
+
+
+## Advice
+
+I am very grateful for the advice, talks, essays, and ideas I have read, watched, and learned from over the years. Many of them come from people I deeply admire and have shaped my philosophy, how I approach problems, and how I want to live my life. A common theme across all of them is the importance of **continuous improvement**.
+
+This aligns closely with the Japanese concept of **Kaizen (改善)** — the practice of making **small, consistent improvements over time**. Whether in research, learning, fitness, or life, Kaizen reminds me that meaningful progress comes from steady effort rather than sudden breakthroughs. I hope the resources below are helpful to you as well.
+
+* [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) — Richard Hamming  
+* [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) — Randy Pausch  
+* [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) — Michael Nielsen  
+* [Doing Well in Your Courses](http://karpathy.github.io/2019/04/25/recipe/) — Andrej Karpathy  
+* [How to Do Great Work](http://paulgraham.com/greatwork.html) — Paul Graham  
+* [Person of Interest (TV Series)](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)) — Explores AI ethics, surveillance, and the intersection of technology and humanity  
+* *“The best way to predict the future is to invent it.”* — Alan Kay  
+* [Growth Mindset](https://fs.blog/carol-dweck-mindset/) — Carol Dweck on the power of believing you can improve  
+* [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) — Eric S. Raymond on open-source development philosophy  
+* [Make Something Wonderful](https://stevejobsarchive.com/) — Steve Jobs’ philosophy on creating technology that enriches people’s lives  
+
+---
+
+*These resources remind me why I'm passionate about computer engineering: to build systems that solve real problems and create positive impacts in people's daily lives.*
