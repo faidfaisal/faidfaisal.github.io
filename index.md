@@ -32,20 +32,21 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 ### Four-Stage Pipelined Multimedia Processor  
 **Aug 2024 – Dec 2024**  
 
-Designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach. Implemented a **128-bit multimedia ALU** with packed subword parallelism, a **32 × 128-bit register file** with three read ports and one write port, and a **hazard-free forwarding unit** enabling stall-free execution. Built a **cycle-accurate testbench**, instruction buffer, and a **custom assembler** for verification.
+Designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach. Implemented a **128-bit multimedia ALU** for parallel processing of multiple subwords, a **32 × 128-bit register file** with multiple read and write ports, and a **forwarding unit** to prevent execution stalls. Built a **cycle-accurate testbench** and a **custom assembler** to verify the processor’s functionality.
 
 ---
 
 ### Transformer-Based NLP Chatbot with Intent Recognition  
 **Jul 2024 – Aug 2024**  
 
-Trained a **transformer model with multi-headed attention**, achieving **80% accuracy** in intent classification. Designed a complete **data preprocessing pipeline**, including tokenization, embedding, and sequence padding. Built a **lightweight interactive frontend** for real-time conversational inference and integrated the model for multi-intent recognition. Implemented **attention masking and dropout regularization** to improve model generalization and prevent overfitting. Conducted extensive testing with a synthetic dataset and real conversational inputs to validate performance.
+Built a **transformer-based chatbot** that can understand and respond to multiple user intents. Created a **data pipeline** to prepare and process text for the model, including tokenization and embeddings. Developed a **simple interactive frontend** for real-time conversations. Applied **attention mechanisms and dropout** to improve accuracy and reliability. Tested the chatbot with various inputs to ensure it responds correctly.
+
 ---
 
 ### CNN-Based Breast Cancer Histopathology Classification  
 **Jun 2024 – Jul 2024**  
 
-Developed a **custom CNN in PyTorch** for binary classification of breast cancer histopathology slides, achieving **95.9% training accuracy**. Designed a network with **multiple convolutional and pooling layers** to extract hierarchical features from high-resolution images and applied **regularization techniques** to reduce overfitting. Built an **interactive Gradio interface** to allow real-time image upload and prediction visualization, highlighting the regions contributing most to the model’s decisions. Created a **training and evaluation pipeline** with data augmentation, normalization, and batch management to ensure robust performance. 
+Developed a **CNN in PyTorch** to classify breast cancer tissue images, achieving **95.9% training accuracy**. Designed the network with multiple **convolutional and pooling layers** to automatically extract important features from high-resolution images. Built a **Gradio interface** for users to upload images and see predictions with highlighted regions that influenced the results. Created a **training workflow** with data augmentation and normalization to improve the model’s performance.
 
 ---
 
