@@ -1,55 +1,56 @@
-# Basic Information 
-title: Xiang Liu
-position: Undergraduate Student 
-affiliation: Stony Brook University 
-email: xiang(dot)liu(dot)1(at)stonybrook.edu 
-motto: [Sometimes the lights are shining on me. Other times I can barely see. Lately it occurs to me what a long strange trip its been.] 
+# ===============================
+# Basic Information
+# ===============================
+title: Faid Faisal
+position: Undergraduate Student
+affiliation: Stony Brook University
+affiliation_link: https://www.stonybrook.edu/
+email: faidfaisal1@gmail.com
+phone: 516-709-4261
 
+# ===============================
+# Personal Quote/Bio
+# ===============================
+quote: |
+   Sometimes the lights are shining on me. Other times I can barely see. Lately it occurs to me what a long strange trip its been.
+
+# ===============================
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light, Xiang Liu, Liu Xiang, AI, research, machine learning, xian liu, liu xian, xing liu, liu xing, stony brook, Stony Brook, NY, New York, robotics, ai
-description: Xiang Liu's personal website based on the Minimal-light theme.
-canonical: https://xiang1103.github.io/ 
+# ===============================
+keywords: faid faisal, faisal faid, faidfaisal, stony brook computer engineering, embedded systems, machine learning, robotics
+canonical: https://faidfaisal.github.io
+description: Faid Faisal is an undergraduate Computer Engineering student at Stony Brook University with interests in embedded systems, machine learning, robotics, and digital design. Expected graduation May 2027.
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
-cv_link: assets/files/Xiang Liu_Resume (4).pdf
-github_link: https://github.com/xiang1103
-linkedin: https://www.linkedin.com/in/xiang-liu-3792251b2/
-twitter: https://x.com/XL49788107 
+# ===============================
+# Theme Options
+# ===============================
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/IMG_4275.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+enable_last_update: false
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+# ===============================
+# Social Links
+# ===============================
+link_type: icon  # icon or text
+github_link: https://github.com/faidfaisal
+linkedin: https://www.linkedin.com/in/faid-faisal/
+cv_link: ./assets/resume.pdf
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+# ===============================
+# Images
+# ===============================
+avatar: ./assets/img/avatar.jpg
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+# ===============================
+# Footer
+# ===============================
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: 
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
+# ===============================
+# Excluded Files
+# ===============================
 exclude:
+  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - CNAME
