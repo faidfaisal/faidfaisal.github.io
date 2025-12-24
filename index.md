@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I’m a third-year undergraduate student studying Computer Engineering at Stony Brook University. I’m very fortunate to be advised by Professor Alex Doboli, where I am currently working on developing machine learning and NLP algorithms to assist with student grading, automation, and instructional support systems.
+Hi there! I’m a third-year undergraduate student studying Computer Engineering at Stony Brook University. I’m very fortunate to be advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I am currently working on developing machine learning and NLP algorithms to assist with student grading, automation, and instructional support systems.
 
 My academic interests are centered on the **intersection of machine learning, computer architecture, and embedded systems**. I am particularly interested in building systems where learning algorithms are tightly integrated with hardware to improve performance, efficiency, and scalability.
 
