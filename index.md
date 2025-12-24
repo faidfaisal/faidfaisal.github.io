@@ -30,21 +30,21 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 ---
 
 ### Four-Stage Pipelined Multimedia Processor  
-**Aug 2024 – Dec 2024**  
+**Aug 2025 – Dec 2025**  
 
 Designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach. Implemented a **128-bit multimedia ALU** for parallel processing of multiple subwords, a **32 × 128-bit register file** with multiple read and write ports, and a **forwarding unit** to prevent execution stalls. Built a **cycle-accurate testbench** and a **custom assembler** to verify the processor’s functionality.
 
 ---
 
 ### Transformer-Based NLP Chatbot with Intent Recognition  
-**Jul 2024 – Aug 2024**  
+**Jul 2025 – Aug 2025**  
 
 Built a **transformer-based chatbot** that can understand and respond to multiple user intents. Created a **data pipeline** to prepare and process text for the model, including tokenization and embeddings. Developed a **simple interactive frontend** for real-time conversations. Applied **attention mechanisms and dropout** to improve accuracy and reliability. Tested the chatbot with various inputs to ensure it responds correctly.
 
 ---
 
 ### CNN-Based Breast Cancer Histopathology Classification  
-**Jun 2024 – Jul 2024**  
+**Jun 2025 – Jul 2025**  
 
 Developed a **CNN in PyTorch** to classify breast cancer tissue images, achieving **95.9% training accuracy**. Designed the network with multiple **convolutional and pooling layers** to automatically extract important features from high-resolution images. Built a **Gradio interface** for users to upload images and see predictions with highlighted regions that influenced the results. Created a **training workflow** with data augmentation and normalization to improve the model’s performance.
 
