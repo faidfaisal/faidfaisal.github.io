@@ -52,7 +52,7 @@ Developed a **CNN in PyTorch** to classify breast cancer tissue images, achievin
 
 ## Beyond Academics
 
-Outside of coursework and research, I enjoy spending time on things that help me stay balanced and energized. I like going to the gym and playing basketball, which keep me active and focused. I also enjoy playing chess, as it challenges the way I think and approach problems. In my free time, I like watching anime and traveling whenever I get the opportunity. Exploring new places and experiencing different cultures gives me fresh perspectives and keeps me inspired.
+Outside of coursework and research, I enjoy spending time on activities that help me stay balanced and energized. I like working out and playing basketball, which keep me active and focused. I also enjoy playing chess, as it challenges the way I think and approach problems. Traveling is another passion of mine, as exploring new places and experiencing different cultures gives me fresh perspectives and keeps me inspired.
 
 
 ## Advice
