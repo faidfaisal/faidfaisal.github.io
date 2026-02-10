@@ -12,11 +12,16 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 
 ## Research Interests
 
-- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.
-- **Computer Architecture:** Investigating how architectural choices in processors, memory hierarchies, and interconnects impact the efficiency of AI and high-performance computing applications.
-- **Compiler and Systems Design:** Exploring how compiler optimizations and system-level scheduling can bridge the gap between algorithms and hardware to improve runtime performance.
-- **Embedded and Edge Systems:** Deploying intelligent algorithms on resource-constrained embedded platforms, focusing on low-power, high-efficiency, real-world applications.
+- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.  
+
+- **Computer Architecture:** Investigating how architectural choices in processors, memory hierarchies, and interconnects impact the efficiency of AI and high-performance computing applications.  
+
+- **Compiler and Systems Design:** Exploring how compiler optimizations and system-level scheduling can bridge the gap between algorithms and hardware to improve runtime performance.  
+
+- **Embedded and Edge Systems:** Deploying intelligent algorithms on resource-constrained embedded platforms, focusing on low-power, high-efficiency, real-world applications.  
+
 - **ML-Driven System Optimization:** Using machine learning techniques to enhance system-level decision-making, automation, and performance tuning.
+  
 ## News
 
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
