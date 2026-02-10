@@ -6,17 +6,17 @@ layout: homepage
 
 Hi there! I’m a third-year undergraduate student studying Computer Engineering at Stony Brook University. I’m very fortunate to be advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I am currently working on developing machine learning and NLP algorithms to assist with student grading, automation, and instructional support systems.
 
-My academic interests are centered on the **intersection of machine learning, computer architecture, and embedded systems**. I am particularly interested in building systems where learning algorithms are tightly integrated with hardware to improve performance, efficiency, and scalability.
+My academic interests lie at the **intersection of machine learning, computer architecture, compiler design, and embedded systems**. I am particularly passionate about designing and optimizing **hardware-accelerated systems for machine learning**, where algorithms are tightly integrated with processors and compilers to maximize performance, efficiency, and scalability.
 
-I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence and machine learning**, motivated by a strong interest in understanding how intelligent algorithms can be designed, optimized, and deployed within real computing systems.
+I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence, machine learning, and systems design**, driven by a desire to understand how intelligent algorithms can be effectively deployed on modern and resource-constrained computing platforms.
 
 ## Research Interests
 
-- **Machine Learning × Hardware:** How can machine learning algorithms be co-designed with hardware to improve efficiency, scalability, and performance?
-- **Computer Architecture:** How do architectural choices in processors and memory systems impact the execution of modern ML workloads?
-- **Embedded Systems:** How can intelligent algorithms be deployed on resource-constrained embedded platforms for real-world applications?
-- **ML-Driven Systems:** How can learning-based approaches enhance automation, decision-making, and system-level optimization?
-
+- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.
+- **Computer Architecture:** Investigating how architectural choices in processors, memory hierarchies, and interconnects impact the efficiency of AI and high-performance computing applications.
+- **Compiler and Systems Design:** Exploring how compiler optimizations and system-level scheduling can bridge the gap between algorithms and hardware to improve runtime performance.
+- **Embedded and Edge Systems:** Deploying intelligent algorithms on resource-constrained embedded platforms, focusing on low-power, high-efficiency, real-world applications.
+- **ML-Driven System Optimization:** Using machine learning techniques to enhance system-level decision-making, automation, and performance tuning.
 ## News
 
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
@@ -32,21 +32,21 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 ### Four-Stage Pipelined Multimedia Processor  
 **Aug 2025 – Dec 2025**  
 
-Designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach. Implemented a **128-bit multimedia ALU** for parallel processing of multiple subwords, a **32 × 128-bit register file** with multiple read and write ports, and a **forwarding unit** to prevent execution stalls. Built a **cycle-accurate testbench** and a **custom assembler** to verify the processor’s functionality.
+I designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach, incorporating a **128-bit multimedia ALU** that enables parallel processing of multiple subwords. The processor features a **32 × 128-bit register file** with multiple read and write ports, along with a **forwarding unit** that prevents execution stalls and improves pipeline efficiency. To ensure correctness, I developed a **cycle-accurate testbench** and a **custom assembler**, which together verified the processor’s functionality end-to-end.
 
 ---
 
 ### Transformer-Based NLP Chatbot with Intent Recognition  
 **Jul 2025 – Aug 2025**  
 
-Built a **transformer-based chatbot** that can understand and respond to multiple user intents. Created a **data pipeline** to prepare and process text for the model, including tokenization and embeddings. Developed a **simple interactive frontend** for real-time conversations. Applied **attention mechanisms and dropout** to improve accuracy and reliability. Tested the chatbot with various inputs to ensure it responds correctly.
+I built a **transformer-based chatbot** capable of understanding and responding to multiple user intents. To prepare the data, I developed a **data pipeline** that handles text preprocessing, including tokenization and embeddings. I also created a **simple interactive frontend** for real-time conversations, while implementing **attention mechanisms and dropout** to improve accuracy and reliability. The chatbot was thoroughly tested with diverse inputs to ensure it responds correctly across a variety of scenarios.
 
 ---
 
 ### CNN-Based Breast Cancer Histopathology Classification  
 **Jun 2025 – Jul 2025**  
 
-Developed a **CNN in PyTorch** to classify breast cancer tissue images, achieving **95.9% training accuracy**. Designed the network with multiple **convolutional and pooling layers** to automatically extract important features from high-resolution images. Built a **Gradio interface** for users to upload images and see predictions with highlighted regions that influenced the results. Created a **training workflow** with data augmentation and normalization to improve the model’s performance.
+I developed a **CNN in PyTorch** to classify breast cancer tissue images, achieving **95.9% training accuracy**. The network was designed with multiple **convolutional and pooling layers** to automatically extract key features from high-resolution images. I also built a **Gradio interface** that allows users to upload images and view predictions, with highlighted regions showing which areas influenced the results. To improve performance and robustness, I created a **training workflow** incorporating data augmentation and normalization.
 
 ---
 
