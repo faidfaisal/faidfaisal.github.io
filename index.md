@@ -18,7 +18,6 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 
 - **Compiler and Systems Design:** Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.  
 
-- **ML-Driven Systems:** Leveraging machine learning techniques to improve system-level decision-making, automation, and overall performance efficiency.
 - 
 ## News
 
