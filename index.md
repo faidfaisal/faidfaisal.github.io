@@ -6,22 +6,20 @@ layout: homepage
 
 Hi there! I’m a third-year undergraduate student studying Computer Engineering at Stony Brook University. I’m very fortunate to be advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I am currently working on developing machine learning and NLP algorithms to assist with student grading, automation, and instructional support systems.
 
-My academic interests lie at the **intersection of machine learning, computer architecture, compiler design, and embedded systems**. I am particularly passionate about designing and optimizing **hardware-accelerated systems for machine learning**, where algorithms are tightly integrated with processors and compilers to maximize performance, efficiency, and scalability.
+My academic interests lie at the **intersection of machine learning, computer architecture, and compiler design**. I am particularly passionate about designing and optimizing **hardware-accelerated systems for machine learning**, where algorithms, compilers, and processors are co-designed to maximize performance, efficiency, and scalability.
 
-I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence, machine learning, and systems design**, driven by a desire to understand how intelligent algorithms can be effectively deployed on modern and resource-constrained computing platforms.
+I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence, machine learning, and systems-level optimization**, driven by a desire to understand how intelligent algorithms can be effectively mapped to modern computing architectures.
 
 ## Research Interests
 
-- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.  
+- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to efficiently accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.  
 
-- **Computer Architecture:** Investigating how architectural choices in processors, memory hierarchies, and interconnects impact the efficiency of AI and high-performance computing applications.  
+- **Computer Architecture:** Investigating how processor design, memory hierarchies, and interconnect architectures impact the performance and efficiency of modern ML workloads.  
 
-- **Compiler and Systems Design:** Exploring how compiler optimizations and system-level scheduling can bridge the gap between algorithms and hardware to improve runtime performance.  
+- **Compiler and Systems Design:** Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.  
 
-- **Embedded and Edge Systems:** Deploying intelligent algorithms on resource-constrained embedded platforms, focusing on low-power, high-efficiency, real-world applications.  
-
-- **ML-Driven System Optimization:** Using machine learning techniques to enhance system-level decision-making, automation, and performance tuning.
-  
+- **ML-Driven System Optimization:** Leveraging machine learning techniques to improve system-level decision-making, automation, and overall performance efficiency.
+- 
 ## News
 
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
