@@ -11,10 +11,14 @@ My academic interests lie at the **intersection of machine learning, computer ar
 I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence, machine learning, and systems-level optimization**, driven by a desire to understand how intelligent algorithms can be effectively mapped to modern computing architectures.
 
 ## Research Interests
-- **Machine Learning Acceleration**: Designing hardware and software co-optimized solutions to efficiently accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.  
-- **Computer Architecture**: Investigating how processor design, memory hierarchies, and interconnect architectures impact the performance and efficiency of modern ML workloads.  
-- **Compiler and Systems Design**: Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.  
-- **ML-Driven System Optimization**: Leveraging machine learning techniques to improve system-level decision-making, automation, and overall performance efficiency.
+
+- **Machine Learning Acceleration:** Designing hardware and software co-optimized solutions to efficiently accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.
+
+- **Computer Architecture:** Investigating how processor design, memory hierarchies, and interconnect architectures impact the performance and efficiency of modern ML workloads.
+
+- **Compiler and Systems Design:** Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.
+
+- **ML-Driven System Optimization:** Leveraging machine learning techniques to improve system-level decision-making, automation, and overall performance efficiency.
   
 ## News
 
