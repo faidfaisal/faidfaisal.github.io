@@ -18,7 +18,7 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 
 - **Compiler and Systems Design:** Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.  
 
-- 
+  
 ## News
 
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
