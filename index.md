@@ -24,8 +24,7 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 - **[Feb. 2026]** Accepted a **DOE SULI Research Internship** at **Brookhaven National Laboratory**.
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.
 - **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.
-- **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model.
-  - **Best Poster Award Recipient** for the poster *“Binary Classification of Histopathology Slides using Convolutional Neural Networks”*
+- **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model — **Best Poster Award Recipient** for the poster *“Binary Classification of Histopathology Slides using Convolutional Neural Networks”*.
 - **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.
 
   
