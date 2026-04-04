@@ -22,11 +22,11 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 ## News
 
 - **[Feb. 2026]** Accepted a **DOE SULI Research Internship** at **Brookhaven National Laboratory**.
-- **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.  
-- **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.  
-- **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model.  
-- **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.  
-- **[Aug. 2022]** Completed a System Operations internship at **iRobot**, leading robot design and reducing hardware–software interface failure rates by 20%.
+- **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.
+- **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.
+- **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model.
+  - 🏆 **Best Poster Award Recipient** for the poster *“Binary Classification of Histopathology Slides using Convolutional Neural Networks”*
+- **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.
 
   
 ## Projects
@@ -75,6 +75,3 @@ This aligns closely with the Japanese concept of **Kaizen (改善)** — the pra
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) — Eric S. Raymond on open-source development philosophy  
 * [Make Something Wonderful](https://stevejobsarchive.com/) — Steve Jobs’ philosophy on creating technology that enriches people’s lives  
 
----
-
-*These resources remind me why I'm passionate about computer engineering: to build systems that solve real problems and create positive impacts in people's daily lives.*
