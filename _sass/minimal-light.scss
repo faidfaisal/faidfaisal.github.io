@@ -206,19 +206,16 @@ papertitle {
       width: 100%;
     }
 
-    .image.avatar {
-      border-radius: 100%;
-    }
-
-      .image.avatar:before {
-        display: none;
-      }
+.image.avatar {
+  border-radius: 0;
+}
 
 .image.avatar img {
-    border-radius: 100%;
-    width: 65%;
-    height: 55%;
-    padding: 20px;
+  border-radius: 12px;  
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  padding: 0;
 }
 
     #header .image.avatar {
