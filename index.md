@@ -65,10 +65,9 @@ Developed a **transformer-based conversational AI system** capable of intent rec
 Developed a **convolutional neural network in PyTorch** for automated breast cancer histopathology classification, achieving **95.9% training accuracy**. Designed and trained a deep learning pipeline with data augmentation and normalization techniques to improve model robustness. Built an interactive Gradio application for image-based inference and visualization of diagnostically relevant tissue regions.
 
 ---
-
 ## Beyond Academics
 
-When I'm not working on research or projects, I enjoy spending time in the gym, running, and playing basketball. I also enjoy cooking, especially experimenting with new recipes and cuisines. One of my biggest passions is traveling and exploring the world—whether it's discovering new cities, experiencing different cultures, or simply seeing things from a new perspective.
+Outside of academics, I enjoy spending time in the gym, running, and playing basketball. I also enjoy cooking, especially experimenting with new recipes and cuisines. One of my biggest passions is traveling and exploring the world—whether that means discovering new cities, experiencing different cultures, or simply gaining new perspectives.
 
 
 ## Advice
