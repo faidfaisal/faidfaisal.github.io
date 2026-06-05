@@ -4,11 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi there! I’m a third-year undergraduate student studying Computer Engineering at Stony Brook University. I’m very fortunate to be advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I am currently working on developing machine learning and NLP algorithms to assist with student grading, automation, and instructional support systems.
+Hi there! I’m a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I am advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I work on machine learning and natural language processing systems for educational automation, intelligent grading, and instructional support.
 
-My academic interests lie at the **intersection of machine learning, computer architecture, and compiler design**. I am particularly passionate about designing and optimizing **hardware-accelerated systems for machine learning**, where algorithms, compilers, and processors are co-designed to maximize performance, efficiency, and scalability.
+My research interests lie at the intersection of **machine learning, computer architecture, and hardware acceleration**. I am particularly interested in designing **machine learning accelerators and hardware-software co-designed systems** that enable efficient execution of modern AI workloads. My goal is to better understand how machine learning algorithms, compilers, and computer architectures can be optimized together to improve performance, energy efficiency, and scalability.
 
-I plan to pursue a **PhD in Computer Engineering** and continue research in **artificial intelligence, machine learning, and systems-level optimization**, driven by a desire to understand how intelligent algorithms can be effectively mapped to modern computing architectures.
+Through my work in digital design, computer architecture, FPGA development, and machine learning, I have become increasingly interested in the systems that power modern AI—from specialized accelerators and memory hierarchies to compiler optimizations and runtime systems.
+
+I plan to pursue a **PhD in Computer Science** and conduct research in **machine learning systems, computer architecture, and AI acceleration**, with a focus on developing efficient computing platforms for next-generation intelligent systems.
+
 
 ## Research Interests
 
