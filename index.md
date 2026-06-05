@@ -31,24 +31,38 @@ I plan to pursue a **PhD in Computer Engineering** and continue research in **ar
 ## Projects
 ---
 
-### Four-Stage Pipelined Multimedia Processor  
-**Aug 2025 – Dec 2025**  
+### FFT Hardware Accelerator
+**May 2026 – Jul 2026**
 
-I designed a **four-stage pipelined processor (IF/ID/EX/WB)** using a structural RTL approach, incorporating a **128-bit multimedia ALU** that enables parallel processing of multiple subwords. The processor features a **32 × 128-bit register file** with multiple read and write ports, along with a **forwarding unit** that prevents execution stalls and improves pipeline efficiency. To ensure correctness, I developed a **cycle-accurate testbench** and a **custom assembler**, which together verified the processor’s functionality end-to-end.
-
----
-
-### Transformer-Based NLP Chatbot with Intent Recognition  
-**Jul 2025 – Aug 2025**  
-
-I built a **transformer-based chatbot** capable of understanding and responding to multiple user intents. To prepare the data, I developed a **data pipeline** that handles text preprocessing, including tokenization and embeddings. I also created a **simple interactive frontend** for real-time conversations, while implementing **attention mechanisms and dropout** to improve accuracy and reliability. The chatbot was thoroughly tested with diverse inputs to ensure it responds correctly across a variety of scenarios.
+Designed and implemented a **radix-2 Cooley-Tukey FFT accelerator** on a **Xilinx Zynq-7000 SoC** using SystemVerilog, featuring fully pipelined butterfly units and fixed-point twiddle factor arithmetic for high-throughput signal processing. Integrated the accelerator through the **AXI interconnect** using Vitis, enabling configurable N-point transforms and hardware-accelerated execution from the ARM Cortex-A9 processor. Verified functionality and timing performance in Vivado for real-time operation.
 
 ---
 
-### CNN-Based Breast Cancer Histopathology Classification  
-**Jun 2025 – Jul 2025**  
+### 2D Convolution Hardware Accelerator
+**May 2026 – Jul 2026**
 
-I developed a **CNN in PyTorch** to classify breast cancer tissue images, achieving **95.9% training accuracy**. The network was designed with multiple **convolutional and pooling layers** to automatically extract key features from high-resolution images. I also built a **Gradio interface** that allows users to upload images and view predictions, with highlighted regions showing which areas influenced the results. To improve performance and robustness, I created a **training workflow** incorporating data augmentation and normalization.
+Developed a **parameterized 2D convolution accelerator** in SystemVerilog with pipelined MAC arrays, on-chip memories, output FIFOs, and AXI-Stream interfaces. Implemented comprehensive verification using DPI-based randomized testing and completed the full **RTL-to-GDSII ASIC design flow** using Synopsys Design Compiler and Cadence Innovus. Achieved timing closure across all critical paths while validating functional correctness in QuestaSim.
+
+---
+
+### Four-Stage Pipelined SIMD Multimedia Processor
+**Aug 2025 – Dec 2025**
+
+Designed a **four-stage SIMD multimedia processor** featuring a 128-bit ALU, 32×128-bit register file, and hazard-free forwarding unit to improve pipeline utilization and execution efficiency. Developed a custom assembler and cycle-accurate verification environment to validate instruction execution, forwarding behavior, and overall pipeline correctness across the IF/ID/EX/WB stages.
+
+---
+
+### Transformer-Based NLP Chatbot with Intent Recognition
+**Jul 2025 – Aug 2025**
+
+Developed a **transformer-based conversational AI system** capable of intent recognition and multi-intent dialogue management. Built an end-to-end NLP pipeline incorporating text preprocessing, tokenization, embeddings, attention mechanisms, and regularization techniques. Designed an interactive frontend for real-time user interaction and evaluated system performance across diverse conversational scenarios.
+
+---
+
+### CNN-Based Breast Cancer Histopathology Classification
+**Jun 2025 – Jul 2025**
+
+Developed a **convolutional neural network in PyTorch** for automated breast cancer histopathology classification, achieving **95.9% training accuracy**. Designed and trained a deep learning pipeline with data augmentation and normalization techniques to improve model robustness. Built an interactive Gradio application for image-based inference and visualization of diagnostically relevant tissue regions.
 
 ---
 
