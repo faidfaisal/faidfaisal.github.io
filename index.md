@@ -68,7 +68,7 @@ Developed a **convolutional neural network in PyTorch** for automated breast can
 ---
 ## Beyond Academics
 
-Outside of academics, I enjoy spending time in the gym, running, and playing basketball. I also enjoy cooking, especially experimenting with new recipes and cuisines. One of my biggest passions is traveling and exploring the world—whether that means discovering new cities, experiencing different cultures, or simply gaining new perspectives.
+Outside of academics, I enjoy spending time in the gym, running, and playing basketball. I also enjoy cooking, especially experimenting with new recipes and cuisines. One of my biggest passions is traveling and exploring the world, whether that means discovering new cities, experiencing different cultures, or simply gaining new perspectives.
 
 
 ## Advice
