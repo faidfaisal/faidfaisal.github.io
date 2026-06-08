@@ -21,11 +21,9 @@ Machine Learning Systems • Computer Architecture • AI Accelerators
 
 Hi there! I’m a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I am advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I work on machine learning and natural language processing systems for educational automation, intelligent grading, and instructional support.
 
-My research interests lie at the intersection of **machine learning systems, computer architecture, and hardware acceleration**. I am particularly interested in designing **machine learning accelerators and hardware-software co-designed systems** that enable efficient execution of modern AI workloads. My goal is to better understand how machine learning algorithms, compilers, and computer architectures can be optimized together to improve performance, energy efficiency, and scalability.
+My research interests lie at the intersection of **machine learning systems, computer architecture, and hardware acceleration**. I am particularly interested in designing **machine learning accelerators and hardware-software co-designed systems** that enable efficient execution of modern AI workloads.
 
-Through my work in digital design, FPGA development, computer architecture, and machine learning, I have become increasingly interested in the systems that power modern AI—from specialized accelerators and memory hierarchies to compiler optimizations and runtime systems.
-
-I plan to pursue a **PhD in Computer Engineering** and conduct research in **machine learning systems, computer architecture, and AI acceleration**.
+I plan to pursue a **PhD in Computer Science** and continue AI research.
 
 ---
 
@@ -33,15 +31,19 @@ I plan to pursue a **PhD in Computer Engineering** and conduct research in **mac
 
 ### Machine Learning Accelerators
 
-Designing specialized hardware architectures for efficient training and inference of modern machine learning models.
+Designing specialized hardware accelerators that improve the performance, efficiency, and scalability of modern machine learning workloads.
 
 ### Computer Architecture
 
-Exploring processor design, memory hierarchies, and system-level optimizations for high-performance computing and AI workloads.
+Exploring how processor design, memory hierarchies, and system architectures shape the performance of AI and high-performance computing applications.
 
-### ML Systems & Compilers
+### ML Systems & Hardware–Software Co-Design
 
-Investigating compiler techniques, runtime systems, and hardware-software co-design strategies that improve the performance and scalability of machine learning applications.
+Investigating compiler techniques, runtime systems, and hardware-software co-design strategies that bridge the gap between machine learning algorithms and efficient execution on modern computing platforms.
+
+### Robot Learning
+
+Exploring how machine learning enables robots to perceive, reason, and interact with complex environments. I am particularly interested in reinforcement learning, imitation learning, and embodied AI systems that allow robots to learn from experience and adapt to real-world tasks.
 
 ---
 
@@ -109,3 +111,4 @@ Meaningful progress rarely comes from a single breakthrough. More often, it is t
 
 > *“The best way to predict the future is to invent it.”* — Alan Kay
 ```
+Last Updated: May 26, 2026.
