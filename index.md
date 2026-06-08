@@ -4,23 +4,21 @@ layout: homepage
 
 ## About Me
 
-Hi there! I’m a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I am advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I work on machine learning and natural language processing systems for educational automation, intelligent grading, and instructional support.
+Hi there! I’m a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I am advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I work on machine learning and natural language processing systems for educational automation and instructional support.
 
-My research interests lie at the intersection of **machine learning, computer architecture, and hardware acceleration**. I am particularly interested in designing **machine learning accelerators and hardware-software co-designed systems** that enable efficient execution of modern AI workloads. My goal is to better understand how machine learning algorithms, compilers, and computer architectures can be optimized together to improve performance, energy efficiency, and scalability.
+My research interests lie at the intersection of **machine learning systems, computer architecture, hardware acceleration, and robot learning**. I am particularly interested in designing efficient **machine learning accelerators** and hardware-software co-designed systems that enable next-generation AI applications.
 
-Through my work in digital design, computer architecture, FPGA development, and machine learning, I have become increasingly interested in the systems that power modern AI—from specialized accelerators and memory hierarchies to compiler optimizations and runtime systems.
-
-I plan to pursue a **PhD in Computer Science** and conduct research in **machine learning systems, computer architecture, and AI acceleration**, with a focus on developing efficient computing platforms for next-generation intelligent systems.
-
+I plan to pursue a **PhD in Computer Science** and continue AI research.
 
 ## Research Interests
 
-- **Machine Learning × Hardware:** Designing hardware and software co-optimized solutions to accelerate ML workloads on CPUs, GPUs, FPGAs, and custom accelerators.  
+- **Machine Learning Accelerators:** Designing specialized hardware accelerators and hardware-software co-designed systems that improve the performance, efficiency, and scalability of modern AI workloads.
 
-- **Computer Architecture:** Investigating how architectural choices in processors, memory hierarchies, and interconnects impact the performance and efficiency of modern ML workloads.  
+- **Computer Architecture:** Exploring processor design, memory hierarchies, and system architectures that enable efficient execution of machine learning and high-performance computing applications.
 
-- **Compiler and Systems Design:** Exploring compiler optimizations, scheduling techniques, and system-level strategies to bridge the gap between ML algorithms and hardware for maximal performance.  
+- **ML Systems & Compilers:** Investigating compiler optimizations, runtime systems, and scheduling techniques that bridge the gap between machine learning algorithms and modern hardware platforms.
 
+- **Robot Learning:** Exploring how reinforcement learning, imitation learning, and embodied AI can enable intelligent robotic systems to learn, adapt, and operate in complex real-world environments.
   
 ## News
 
@@ -34,35 +32,35 @@ I plan to pursue a **PhD in Computer Science** and conduct research in **machine
 ## Projects
 ---
 
-### FFT Hardware Accelerator
+## FFT Hardware Accelerator
 **May 2026 – Jul 2026**
 
 Designed and implemented a **radix-2 Cooley-Tukey FFT accelerator** on a **Xilinx Zynq-7000 SoC** using SystemVerilog, featuring fully pipelined butterfly units and fixed-point twiddle factor arithmetic for high-throughput signal processing. Integrated the accelerator through the **AXI interconnect** using Vitis, enabling configurable N-point transforms and hardware-accelerated execution from the ARM Cortex-A9 processor. Verified functionality and timing performance in Vivado for real-time operation.
 
 ---
 
-### 2D Convolution Hardware Accelerator
+## 2D Convolution Hardware Accelerator
 **May 2026 – Jul 2026**
 
 Developed a **parameterized 2D convolution accelerator** in SystemVerilog with pipelined MAC arrays, on-chip memories, output FIFOs, and AXI-Stream interfaces. Implemented comprehensive verification using DPI-based randomized testing and completed the full **RTL-to-GDSII ASIC design flow** using Synopsys Design Compiler and Cadence Innovus. Achieved timing closure across all critical paths while validating functional correctness in QuestaSim.
 
 ---
 
-### Four-Stage Pipelined SIMD Multimedia Processor
+## Four-Stage Pipelined SIMD Multimedia Processor
 **Aug 2025 – Dec 2025**
 
 Designed a **four-stage SIMD multimedia processor** featuring a 128-bit ALU, 32×128-bit register file, and hazard-free forwarding unit to improve pipeline utilization and execution efficiency. Developed a custom assembler and cycle-accurate verification environment to validate instruction execution, forwarding behavior, and overall pipeline correctness across the IF/ID/EX/WB stages.
 
 ---
 
-### Transformer-Based NLP Chatbot with Intent Recognition
+## Transformer-Based NLP Chatbot with Intent Recognition
 **Jul 2025 – Aug 2025**
 
 Developed a **transformer-based conversational AI system** capable of intent recognition and multi-intent dialogue management. Built an end-to-end NLP pipeline incorporating text preprocessing, tokenization, embeddings, attention mechanisms, and regularization techniques. Designed an interactive frontend for real-time user interaction and evaluated system performance across diverse conversational scenarios.
 
 ---
 
-### CNN-Based Breast Cancer Histopathology Classification
+## CNN-Based Breast Cancer Histopathology Classification
 **Jun 2025 – Jul 2025**
 
 Developed a **convolutional neural network in PyTorch** for automated breast cancer histopathology classification, achieving **95.9% training accuracy**. Designed and trained a deep learning pipeline with data augmentation and normalization techniques to improve model robustness. Built an interactive Gradio application for image-based inference and visualization of diagnostically relevant tissue regions.
