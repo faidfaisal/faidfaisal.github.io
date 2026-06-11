@@ -19,7 +19,7 @@ I plan to pursue a **PhD in Computer Science** and continue AI research.
 - **ML Systems & Compilers:** Investigating compiler optimizations, runtime systems, and scheduling techniques that bridge the gap between machine learning algorithms and modern hardware platforms.
 
 - **Robot Learning:** Exploring how reinforcement learning, imitation learning, and embodied AI can enable intelligent robotic systems to learn, adapt, and operate in complex real-world environments.
-  
+ 
 ## News
 
 - **[Feb. 2026]** Accepted a **DOE SULI Research Internship** at **Brookhaven National Laboratory**.
@@ -28,9 +28,24 @@ I plan to pursue a **PhD in Computer Science** and continue AI research.
 - **[Nov. 2025]** Presented a research poster at the **Mid-Atlantic Section (MAS) ASEE Conference** on my CNN-based breast cancer detection model — **Best Poster Award Recipient** for the poster *“Binary Classification of Histopathology Slides using Convolutional Neural Networks”*.
 - **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.
 
-  
+ 
 ## Projects
 ---
+
+### FFT Hardware Accelerator
+**May 2026 – Jul 2026**
+
+Designed and implemented a **radix-2 Cooley-Tukey FFT accelerator** on a **Xilinx Zynq-7000 SoC** using SystemVerilog, featuring fully pipelined butterfly units and fixed-point twiddle factor arithmetic for high-throughput signal processing. Integrated the accelerator through the **AXI interconnect** using Vitis, enabling configurable N-point transforms and hardware-accelerated execution from the ARM Cortex-A9 processor. Verified functionality and timing performance in Vivado for real-time operation.
+
+---
+
+### 2D Convolution Hardware Accelerator
+**May 2026 – Jul 2026**
+
+Developed a **parameterized 2D convolution accelerator** in SystemVerilog with pipelined MAC arrays, on-chip memories, output FIFOs, and AXI-Stream interfaces. Implemented comprehensive verification using DPI-based randomized testing and completed the full **RTL-to-GDSII ASIC design flow** using Synopsys Design Compiler and Cadence Innovus. Achieved timing closure across all critical paths while validating functional correctness in QuestaSim.
+
+---
+
 ### Four-Stage Pipelined SIMD Multimedia Processor
 **Aug 2025 – Dec 2025**
 
