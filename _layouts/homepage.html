@@ -34,34 +34,40 @@
         </a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+      <h1 style="margin-bottom:8px;">{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
+      <div style="font-size:1.10rem; margin-bottom:4px;">
+        {{ site.position }}
+      </div>
         {% endif %}
 
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener">
-          <autocolor>{{ site.affiliation }}</autocolor>
-        </a>
-        <br>
+<div style="margin-bottom:4px;">
+  <a href="{{ site.affiliation_link }}" rel="noopener">
+    <autocolor>{{ site.affiliation }}</autocolor>
+  </a>
+</div>
         {% endif %}
 
         {% if site.email %}
-        <email>{{ site.email }}</email>
+      <div style="margin-bottom:8px;">
+  <email>{{ site.email }}</email>
+</div>
         {% endif %}
-
-        {% if site.quote %}
-        <p style="font-size:1.00rem; margin-top:10px;">
-          {{ site.quote }}
-        </p>
-        {% endif %}
-
-        <br>
-
-        {% if site.link_type == 'icon' %}
-        <div class="social-icons" style="position: relative; z-index: 9999; pointer-events: auto;">
+    
+    {% if site.quote %}
+    <div style="font-size:1.00rem; margin-top:10px; margin-bottom:5px; line-height:1.5;">
+      {{ site.quote }}
+    </div>
+    {% endif %}
+    
+    {% if site.link_type == 'icon' %}
+    <div class="social-icons"
+         style="position: relative;
+                z-index: 9999;
+                pointer-events: auto;
+                margin-top: 0px;">
 
           {% if site.cv_link %}
           <a style="margin: 0 8px 0 0; position: relative; z-index: 9999;"
