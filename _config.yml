@@ -31,9 +31,9 @@ enable_last_update: false
 # Social Links
 # ===============================
 link_type: icon  # icon or text
-github_link: https://github.com/faidfaisal
-linkedin: https://www.linkedin.com/in/faid-faisal/
-cv_link: ./assets/resume.pdf
+github_link: "https://github.com/faidfaisal"
+linkedin_link: "https://www.linkedin.com/in/faid-faisal/"
+cv_link: "/assets/resume.pdf"
 
 # ===============================
 # Images
