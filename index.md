@@ -26,9 +26,19 @@ Looking ahead, I plan to pursue **graduate studies in Computer Engineering**, fo
 
 ## Advice
 
-I am very grateful for the advice, talks, essays, and ideas I have read, watched, and learned from over the years. Many of them come from people I deeply admire and have shaped my philosophy, how I approach problems, and how I want to live my life. A common theme across all of them is the importance of **continuous improvement**.
+## Continuous Improvement
 
-This aligns closely with the Japanese concept of **Kaizen (改善)** — the practice of making **small, consistent improvements over time**. Whether in research, learning, fitness, or life, Kaizen reminds me that meaningful progress comes from steady effort rather than sudden breakthroughs. I hope the resources below are helpful to you as well.
+# Continuous Improvement
+
+I am grateful for the advice, ideas, and lessons I have learned from books, videos, articles, and conversations over the years. Many of these came from people I admire and have helped shape how I think, solve problems, and approach life.
+
+One idea that appears again and again is **continuous improvement**.
+
+This idea is closely related to the Japanese concept of **Kaizen (改善)**, which emphasizes making small improvements every day. Rather than relying on sudden breakthroughs, Kaizen teaches that meaningful progress comes from consistent effort over time.
+
+Whether in research, engineering, learning, fitness, or personal growth, I believe that becoming just a little better each day can lead to extraordinary outcomes.
+
+I hope the resources below inspire you as much as they have inspired me.
 
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) — Richard Hamming  
 * [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) — Randy Pausch  
@@ -36,7 +46,6 @@ This aligns closely with the Japanese concept of **Kaizen (改善)** — the pra
 * [Doing Well in Your Courses](http://karpathy.github.io/2019/04/25/recipe/) — Andrej Karpathy  
 * [How to Do Great Work](http://paulgraham.com/greatwork.html) — Paul Graham  
 * [Person of Interest (TV Series)](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)) — Explores AI ethics, surveillance, and the intersection of technology and humanity  
-* *“The best way to predict the future is to invent it.”* — Alan Kay  
 * [Growth Mindset](https://fs.blog/carol-dweck-mindset/) — Carol Dweck on the power of believing you can improve  
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) — Eric S. Raymond on open-source development philosophy  
 * [Make Something Wonderful](https://stevejobsarchive.com/) — Steve Jobs’ philosophy on creating technology that enriches people’s lives
