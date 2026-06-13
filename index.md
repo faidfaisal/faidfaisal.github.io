@@ -26,10 +26,6 @@ Looking ahead, I plan to pursue **graduate studies in Computer Engineering**, fo
 
 ## Advice
 
-## Continuous Improvement
-
-# Continuous Improvement
-
 I am grateful for the advice, ideas, and lessons I have learned from books, videos, articles, and conversations over the years. Many of these came from people I admire and have helped shape how I think, solve problems, and approach life.
 
 One idea that appears again and again is **continuous improvement**.
