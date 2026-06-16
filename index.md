@@ -18,7 +18,7 @@ Looking ahead, I plan to pursue **graduate studies in Computer Engineering**, fo
  
 ## News
 
-- **[Feb. 2026]** Accepted a **DOE SULI Research Internship** at **Brookhaven National Laboratory**.
+- **[Feb. 2026]** Accepted a **DOE Research Internship** offer at **Brookhaven National Laboratory**.
 - **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.
 - **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.
 - **Nov. 2025:** Received the **Best Poster Award** at the **ASEE Mid-Atlantic Section (MAS) Conference** for presenting *“Binary Classification of Histopathology Slides using Convolutional Neural Networks,”* a CNN-based approach for breast cancer detection.
