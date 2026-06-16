@@ -34,15 +34,12 @@ This idea is closely related to the Japanese concept of **Kaizen (改善)**, whi
 
 I hope the resources below inspire you as much as they have inspired me.
 
-* [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) — Richard Hamming  
-* [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) — Randy Pausch  
-* [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) — Michael Nielsen  
-* [Doing Well in Your Courses](http://karpathy.github.io/2019/04/25/recipe/) — Andrej Karpathy  
-* [How to Do Great Work](http://paulgraham.com/greatwork.html) — Paul Graham  
-* [Person of Interest (TV Series)](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)) — Explores AI ethics, surveillance, and the intersection of technology and humanity  
-* [Growth Mindset](https://fs.blog/carol-dweck-mindset/) — Carol Dweck on the power of believing you can improve  
-* [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) — Eric S. Raymond on open-source development philosophy  
-* [Make Something Wonderful](https://stevejobsarchive.com/) — Steve Jobs’ philosophy on creating technology that enriches people’s lives
+* [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) — Richard Hamming on doing important work and developing a world-class mindset.
+* [The Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) — Randy Pausch on perseverance, dreams, and living a meaningful life.
+* [How to Do Great Work](https://paulgraham.com/greatwork.html) — Paul Graham's guide to finding work that matters and pursuing excellence.
+* [Doing Well in Your Courses](http://karpathy.github.io/2019/04/25/recipe/) — Andrej Karpathy on learning effectively, building discipline, and maximizing growth as a student.
+* [Make Something Wonderful](https://stevejobsarchive.com/) — Steve Jobs' philosophy on craftsmanship, purpose, and creating things that positively impact the world.
+* [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) — Viktor Frankl on resilience, purpose, and finding meaning through adversity.
 
 ---
 
