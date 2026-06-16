@@ -26,13 +26,11 @@ Looking ahead, I plan to pursue **graduate studies in Computer Engineering**, fo
 
 ## Advice
 
-I am grateful for the advice, ideas, and lessons I have learned from books, videos, articles, and conversations over the years. Many of these came from people I admire and have helped shape how I think, solve problems, and approach life.
+I am grateful for the advice, ideas, and lessons I have learned from books, videos, articles, and conversations over the years. Many of these resources have helped shape how I think, solve problems, and approach life.
 
 One idea that appears again and again is **continuous improvement**.
 
-This idea is closely related to the Japanese concept of **Kaizen (改善)**, which emphasizes making small improvements every day. Rather than relying on sudden breakthroughs, Kaizen teaches that meaningful progress comes from consistent effort over time.
-
-Whether in research, engineering, learning, fitness, or personal growth, I believe that becoming just a little better each day can lead to extraordinary outcomes.
+This idea is closely related to the Japanese concept of **Kaizen (改善)**, which emphasizes making small improvements every day. Rather than relying on sudden breakthroughs, Kaizen teaches that meaningful progress comes from consistent effort over time. Whether in research, engineering, learning, fitness, or personal growth, I believe that becoming just a little better each day can lead to extraordinary outcomes.
 
 I hope the resources below inspire you as much as they have inspired me.
 
