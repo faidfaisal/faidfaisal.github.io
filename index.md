@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I am advised by **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)**, where I conduct research on machine learning and natural language processing systems for educational automation and instructional support.
+Hi there! I'm a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I collaborate with **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)** on research in machine learning and natural language processing systems for educational automation and instructional support.
 
 My interests lie at the intersection of **machine learning, computer architecture, and hardware acceleration**. I am particularly interested in designing efficient machine learning accelerators and hardware-software co-designed systems that enable high-performance and intelligent computing. My work explores how advances in both algorithms and hardware can be combined to make AI systems faster, more scalable, and more efficient.
 
@@ -18,8 +18,8 @@ Looking ahead, I plan to pursue **graduate studies in Computer Engineering**, fo
  
 ## News
 
-- **[Feb. 2026]** Accepted a **DOE Research Internship** offer at **Brookhaven National Laboratory**.
-- **[Dec. 2025]** Accepted a **Test Engineering Intern** offer at **EV Buddy**.
+- **[Feb. 2026]** Accepted a **Research Internship** offer at **Brookhaven National Laboratory**.
+- **[Dec. 2025]** Accepted a **Machine LearningIntern** offer at **EV Buddy**.
 - **[Nov. 2025]** Appointed **Machine Learning Lead** at **CRIZM**, overseeing AI-driven initiatives.
 - **Nov. 2025:** Received the **Best Poster Award** at the **ASEE Mid-Atlantic Section (MAS) Conference** for presenting *“Binary Classification of Histopathology Slides using Convolutional Neural Networks,”* a CNN-based approach for breast cancer detection.
 - **[Aug. 2024]** Completed a Software Engineering internship at **JP Morgan Chase & Co.**, developing interactive trading dashboards and reducing onboarding time by 40%.
