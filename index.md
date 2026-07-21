@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I'm a third-year undergraduate student studying **Computer Engineering at Stony Brook University**. I collaborate with **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)** on research in machine learning and natural language processing systems for educational automation and instructional support.
+Hi there! I'm a fourth year undergraduate student studying **Computer Engineering at Stony Brook University**. I collaborate with **[Professor Alex Doboli](https://www.ece.stonybrook.edu/~adoboli/)** on research in machine learning and natural language processing systems for educational automation and instructional support.
 
 My interests lie at the intersection of **machine learning, computer architecture, and hardware acceleration**. I am particularly interested in designing efficient machine learning accelerators and hardware-software co-designed systems that enable high-performance and intelligent computing. My work explores how advances in both algorithms and hardware can be combined to make AI systems faster, more scalable, and more efficient.
 
